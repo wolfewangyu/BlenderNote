@@ -59,6 +59,23 @@ Object Gizmos中，勾选Move, Rotatte, Scale, 点选mesh的时候，即可出�
 选择工具，框选
 全选：a,aa取消全选
 
+# 相机
+视角确定：Shift+A 创建一个相机
+点击右侧栏相机图标，则切换到相机视图，出现取景框
+Zoom in一下，把框拉大些，能够看清晰，然后勾选Camera to View, 即相机跟随调整的视角调整
+方便方式：在常规视图中，ctrl + shift + num0即可将当前视角设定为相机视角，继而用上面的方法微调
+如果快捷键冲突，可以在edit-preference查看
+![camera设置快捷键](https://para-1255470189.cos.ap-nanjing.myqcloud.com/uPic/x9C2oQ.png)
+
+
+相机移动方式：
+摇头：pan(水平), tilt（上下）
+平移：trunk（水平）, Pedestal(上下), Dolly(前后)
+Zoom: 变焦
+Roll: 沿着镜头的轴向旋转镜头  
+
+
+
 
 # 资源
 B站辣椒酱
